@@ -4,7 +4,7 @@
 
 This is my submission for the 2023 Lede Program's second project. 
 
-#### Goal
+### Goal
 This project began with a curiosity to check the latest data available on domestic violence in India, and what it truly meant for the women in the country. 
 
 ### Findings
